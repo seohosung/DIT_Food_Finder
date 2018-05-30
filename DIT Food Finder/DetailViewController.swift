@@ -24,6 +24,7 @@ class DetailViewController: UIViewController {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
+        self.title = cellName
         detailName.text = cellName
         detailAddress.text = cellAddress
         detailType.text = cellType
