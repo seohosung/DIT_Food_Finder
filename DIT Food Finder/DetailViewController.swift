@@ -2,8 +2,8 @@
 //  DetailViewController.swift
 //  DIT Food Finder
 //
-//  Created by D7703_22 on 2018. 5. 30..
-//  Copyright © 2018년 jik. All rights reserved.
+//  Created by D7703_30 on 2018. 5. 30..
+//  Copyright © 2018년 hs. All rights reserved.
 //
 
 import UIKit
